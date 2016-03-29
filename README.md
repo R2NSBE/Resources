@@ -26,3 +26,9 @@ To learn the basic of git please check out this <a href="https://try.github.io/l
   <li>Wix</li>
   <li>Wordpress</li>
 </ul>
+
+###Extras
+<ul>
+  <li>https://guides.github.com</li>
+  <li>https://training.github.com/schedule/</li>
+</ul>
